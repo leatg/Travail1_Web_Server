@@ -1,17 +1,17 @@
 {
-  "name": "serveur-minimale",
+  "name": "Travail 1 Web",
   "type": "module",
   "engines": {
     "node": "16.14.2"
   },
   "version": "1.0.0",
-  "description": "Serveur http minimal",
+  "description": "Travail 1 Web",
   "main": "ContactsService.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ContactsService.js"
   },
-  "author": "Nicolas Chourot",
+  "author": "Lea Trudeau",
   "license": "ISC",
   "dependencies": {
     "query-string": "^8.1.0"
